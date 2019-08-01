@@ -13,14 +13,14 @@
     {"node":10,"name":"Cleaned Data"}
     ],
     "links":[
-    {"source":0,"target":1,"value":2},
-    {"source":0,"target":5,"value":2},
-    {"source":0,"target":6,"value":2},
-    {"source":0,"target":10,"value":2},
-    {"source":1,"target":2,"value":2},
-    {"source":1,"target":3,"value":2},
-    {"source":1,"target":4,"value":2},
-    {"source":6,"target":7,"value":2},
-    {"source":6,"target":8,"value":2},
-    {"source":6,"target":9,"value":2}
+    {"source":0,"target":1,"value":10224},
+    {"source":0,"target":5,"value":252413},
+    {"source":0,"target":6,"value":2014},
+    {"source":0,"target":10,"value":186877},
+    {"source":1,"target":2,"value":5415},
+    {"source":1,"target":3,"value":307},
+    {"source":1,"target":4,"value":4502},
+    {"source":6,"target":7,"value":1631},
+    {"source":6,"target":8,"value":0},
+    {"source":6,"target":9,"value":383}
     ]}
