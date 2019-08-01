@@ -1,17 +1,26 @@
 {
     "nodes":[
-    {"node":0,"name":"A"},
-    {"node":1,"name":"B"},
-    {"node":2,"name":"C"},
-    {"node":3,"name":"D"},
-    {"node":4,"name":"E"}
+    {"node":0,"name":"Uncleaned Data"},
+    {"node":1,"name":"Null Data"},
+    {"node":2,"name":"Null Bedroom Data"},
+    {"node":3,"name":"Null Rent Data"},
+    {"node":4,"name":"Null Coordinates Data"},
+    {"node":5,"name":"Duplicated Data"},
+    {"node":6,"name":"Outlier Data"},
+    {"node":7,"name":"Outlier Location Data"},
+    {"node":8,"name":"Outlier Bedroom Data"},
+    {"node":9,"name":"Outlier Rent Data"},
+    {"node":10,"name":"Cleaned Data"}
     ],
     "links":[
-    {"source":0,"target":2,"value":2},
+    {"source":0,"target":1,"value":2},
+    {"source":0,"target":5,"value":2},
+    {"source":0,"target":6,"value":2},
+    {"source":0,"target":10,"value":2},
     {"source":1,"target":2,"value":2},
     {"source":1,"target":3,"value":2},
-    {"source":0,"target":4,"value":2},
-    {"source":2,"target":3,"value":2},
-    {"source":2,"target":4,"value":2},
-    {"source":3,"target":4,"value":4}
+    {"source":1,"target":4,"value":2},
+    {"source":6,"target":7,"value":2},
+    {"source":6,"target":8,"value":2},
+    {"source":6,"target":9,"value":2}
     ]}
