@@ -8,19 +8,17 @@
     {"node":5,"name":"Duplicated Data"},
     {"node":6,"name":"Outlier Data"},
     {"node":7,"name":"Outlier Location Data"},
-    {"node":8,"name":"Outlier Bedroom Data"},
-    {"node":9,"name":"Outlier Rent Data"},
-    {"node":10,"name":"Cleaned Data"}
+    {"node":8,"name":"Outlier Rent Data"},
+    {"node":9,"name":"Cleaned Data"}
     ],
     "links":[
     {"source":0,"target":1,"value":10.224},
-    {"source":0,"target":5,"value":25.2413},
+    {"source":0,"target":5,"value":252.413},
     {"source":0,"target":6,"value":2.014},
-    {"source":0,"target":10,"value":18.6877},
+    {"source":0,"target":9,"value":186.877},
     {"source":1,"target":2,"value":5.415},
     {"source":1,"target":3,"value":0.307},
     {"source":1,"target":4,"value":4.502},
     {"source":6,"target":7,"value":1.631},
-    {"source":6,"target":8,"value":0},
-    {"source":6,"target":9,"value":0.383}
+    {"source":6,"target":8,"value":0.383}
     ]}
